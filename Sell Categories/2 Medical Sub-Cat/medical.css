@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+i{
+    color: black;
+}
+i:hover{
+    color: orangered;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-weight:bold ;
+
+}
+.card-img{
+height: 350px;
+width: 250px;
+
+}
+
+.card-body{
+    font-family: 'Mate SC', serif;
+    text-align: center;
+}  
+
+#p1{
+    text-align: center;
+}
+
+#p1 del{
+    margin-right: 10px;
+}
+
+.But1{
+    margin-top: 10px;
+    background-color: orangered;
+    color: white;
+    border-radius:5px;
+    border-style: none;
+}
+.But1:hover{
+    background-color: hsla(217, 38%, 45%, 1);
+    transition: 0.5s;
+
+}
+.card{
+    max-height: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
